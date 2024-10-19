@@ -76,3 +76,8 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+@media (max-width:768px){
+    .chatbot{
+        width:400px;
+    }
+}
